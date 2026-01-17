@@ -1,0 +1,7 @@
+{
+  "name": "Pureguard",
+  "description": "A heartfelt recovery companion designed to help you break free from addiction with spiritual wisdom, daily streaks, and a panic-relief system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
